@@ -1,8 +1,8 @@
 {
   "members": [
-    { "name": "", "role": "", "github": "" },
-    { "name": "", "role": "", "github": "" },
-    { "name": "", "role": "", "github": "" },
-    { "name": "", "role": "", "github": "" }
+    { "name": "Shashank Patel", "role": "Linux System Administrator", "github": "https://github.com/allenasat044-prog" },
+    { "name": "Pankaj Pandurang Tike", "role": "Storage & Backup Administrator", "github": "https://github.com/pankajt25" },
+    { "name": "Anmol Poddar", "role": "Automation and Security Engineer", "github": "https://github.com/ANMOL16-IT" },
+    { "name": "Shikhar Srivastava", "role": "Testing, Documentation & Presentation Lead", "github": "https://github.com/FFloverSHIKHAR2006" }
   ]
 }

@@ -1,1 +1,2 @@
 {"key":"/System/Volumes/Data:growth","mount":"/System/Volumes/Data","kind":"growth","level":"warning","message":"/System/Volumes/Data projected full in 4.3 days at 69.61 GiB/day","ts":1791648314.052,"state":"FIRING"}
+{"key":"/System/Volumes/Data:growth","mount":"/System/Volumes/Data","kind":"growth","level":"warning","ts":1791648958.439,"state":"RESOLVED","message":"/System/Volumes/Data growth back to normal (was warning)"}

@@ -1,22 +1,32 @@
 ==============================================================================
- STORAGE REPORT  Shashanks-Laptop.local   10/10/2026, 9:34:14 pm
- darwin arm64  Darwin 25.6.0   uptime 3.32 days
+ STORAGE REPORT  Shashanks-Laptop.local   10/10/2026, 9:57:47 pm
+ darwin arm64  Darwin 25.6.0   uptime 3.34 days
 ==============================================================================
 
 MOUNT                 TYPE           SIZE       USED       FREE   USE%  INODE%  STATUS
 ------------------------------------------------------------------------------
 /System/Volumes/iSCPr apfs     500.00 MiB  17.39 MiB 482.61 MiB    3.5     0.0  OK
-/System/Volumes/Data  apfs     460.43 GiB 160.18 GiB 300.25 GiB   34.8     0.0  OK
+/System/Volumes/Data  apfs     460.43 GiB 160.25 GiB 300.18 GiB   34.8     0.0  OK
 
 GROWTH (least-squares over last 24h of samples)
 ------------------------------------------------------------------------------
-/System/Volumes/iSCPreboot insufficient samples (1) - collector needs more time
-/System/Volumes/Data   insufficient samples (1) - collector needs more time
+/System/Volumes/iSCPreboot 0 B/day, 0 inodes/day, not growing
+/System/Volumes/Data   2.62 GiB/day, -13245 inodes/day, full in 114.6 days
 
 LARGEST DIRECTORIES
 ------------------------------------------------------------------------------
 /System/Volumes/iSCPreboot:
+      5.48 MiB  /System/Volumes/iSCPreboot/SFR
+     44.00 KiB  /System/Volumes/iSCPreboot/SystemRecovery
+     16.00 KiB  /System/Volumes/iSCPreboot/959AA465-741C-4F47-8A14-BEB4400FCBAE
+      8.00 KiB  /System/Volumes/iSCPreboot/5F9234CF-C7F4-496F-B5F4-646CA2537157
+      4.00 KiB  /System/Volumes/iSCPreboot/3D3287DE-280D-4619-AAAB-D97469CA9C71
 /System/Volumes/Data:
+     89.35 GiB  /System/Volumes/Data/Users
+     14.59 GiB  /System/Volumes/Data/Applications
+      7.21 GiB  /System/Volumes/Data/private
+      6.44 GiB  /System/Volumes/Data/opt
+      5.37 GiB  /System/Volumes/Data/System
 
 ACTIVE ALERTS
 ------------------------------------------------------------------------------
@@ -24,4 +34,5 @@ ACTIVE ALERTS
 
 ALERT EVENTS (24h)
 ------------------------------------------------------------------------------
- none
+ 9:35:14 pm FIRING   /System/Volumes/Data projected full in 4.3 days at 69.61 GiB/day
+ 9:45:58 pm RESOLVED /System/Volumes/Data growth back to normal (was warning)
