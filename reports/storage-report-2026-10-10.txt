@@ -1,0 +1,27 @@
+==============================================================================
+ STORAGE REPORT  Shashanks-Laptop.local   10/10/2026, 9:34:14 pm
+ darwin arm64  Darwin 25.6.0   uptime 3.32 days
+==============================================================================
+
+MOUNT                 TYPE           SIZE       USED       FREE   USE%  INODE%  STATUS
+------------------------------------------------------------------------------
+/System/Volumes/iSCPr apfs     500.00 MiB  17.39 MiB 482.61 MiB    3.5     0.0  OK
+/System/Volumes/Data  apfs     460.43 GiB 160.18 GiB 300.25 GiB   34.8     0.0  OK
+
+GROWTH (least-squares over last 24h of samples)
+------------------------------------------------------------------------------
+/System/Volumes/iSCPreboot insufficient samples (1) - collector needs more time
+/System/Volumes/Data   insufficient samples (1) - collector needs more time
+
+LARGEST DIRECTORIES
+------------------------------------------------------------------------------
+/System/Volumes/iSCPreboot:
+/System/Volumes/Data:
+
+ACTIVE ALERTS
+------------------------------------------------------------------------------
+ none
+
+ALERT EVENTS (24h)
+------------------------------------------------------------------------------
+ none
