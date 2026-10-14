@@ -1,0 +1,39 @@
+==============================================================================
+ STORAGE REPORT  Anmol   10/14/2026, 11:21:39 AM
+ win32 x64  Windows_NT 10.0.26300   uptime 0.06 days
+==============================================================================
+
+MOUNT                 TYPE           SIZE       USED       FREE   USE%  INODE%  STATUS
+------------------------------------------------------------------------------
+C:\                   NTFS     234.53 GiB 192.15 GiB  42.38 GiB   81.9     n/a  CRITICAL
+D:\                   NTFS     240.19 GiB 154.51 GiB  85.68 GiB   64.3     n/a  OK
+
+GROWTH (least-squares over last 24h of samples)
+------------------------------------------------------------------------------
+C:\                    21.01 GiB/day, 0 inodes/day, full in 2.0 days
+D:\                    0 B/day, 0 inodes/day, not growing
+
+LARGEST DIRECTORIES
+------------------------------------------------------------------------------
+C:\:
+     78.16 GiB  C:\Users
+     18.04 GiB  C:\Program Files
+      6.79 GiB  C:\Program Files (x86)
+      3.85 GiB  C:\Windows
+      3.76 GiB  C:\Drivers
+D:\:
+     89.44 GiB  D:\Games
+     38.40 GiB  D:\GTA5 NEW
+     24.35 GiB  D:\phonepicture
+      1.81 GiB  D:\r jha
+    352.65 MiB  D:\project
+
+ACTIVE ALERTS
+------------------------------------------------------------------------------
+ [WARNING] C:\ space 81.9% used (>= 80%), 42.38 GiB free
+ [CRITICAL] C:\ projected full in 2.0 days at 21.01 GiB/day
+
+ALERT EVENTS (24h)
+------------------------------------------------------------------------------
+ 11:17:47 AM FIRING   C:\ space 81.9% used (>= 80%), 42.43 GiB free
+ 11:18:49 AM FIRING   C:\ projected full in 3.0 days at 14.25 GiB/day

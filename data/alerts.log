@@ -1,2 +1,6 @@
 2026-10-10T16:05:14.052Z [FIRING] WARNING Shashanks-Laptop.local: /System/Volumes/Data projected full in 4.3 days at 69.61 GiB/day
 2026-10-10T16:15:58.439Z [RESOLVED] WARNING Shashanks-Laptop.local: /System/Volumes/Data growth back to normal (was warning)
+2026-10-14T05:47:47.209Z [FIRING] WARNING Anmol: C:\ space 81.9% used (>= 80%), 42.43 GiB free
+2026-10-14T05:48:49.505Z [FIRING] CRITICAL Anmol: C:\ projected full in 3.0 days at 14.25 GiB/day
+2026-10-14T05:52:10.505Z [FIRING] WARNING Anmol: C:\ projected full in 8.4 days at 5.07 GiB/day
+2026-10-14T05:52:41.505Z [RESOLVED] WARNING Anmol: C:\ growth back to normal (was warning)

@@ -1,2 +1,6 @@
 {"key":"/System/Volumes/Data:growth","mount":"/System/Volumes/Data","kind":"growth","level":"warning","message":"/System/Volumes/Data projected full in 4.3 days at 69.61 GiB/day","ts":1791648314.052,"state":"FIRING"}
 {"key":"/System/Volumes/Data:growth","mount":"/System/Volumes/Data","kind":"growth","level":"warning","ts":1791648958.439,"state":"RESOLVED","message":"/System/Volumes/Data growth back to normal (was warning)"}
+{"key":"C:\\:space","mount":"C:\\","kind":"space","level":"warning","message":"C:\\ space 81.9% used (>= 80%), 42.43 GiB free","ts":1791956867.209,"state":"FIRING"}
+{"key":"C:\\:growth","mount":"C:\\","kind":"growth","level":"critical","message":"C:\\ projected full in 3.0 days at 14.25 GiB/day","ts":1791956929.505,"state":"FIRING"}
+{"key":"C:\\:growth","mount":"C:\\","kind":"growth","level":"warning","message":"C:\\ projected full in 8.4 days at 5.07 GiB/day","ts":1791957130.505,"state":"FIRING"}
+{"key":"C:\\:growth","mount":"C:\\","kind":"growth","level":"warning","ts":1791957161.505,"state":"RESOLVED","message":"C:\\ growth back to normal (was warning)"}
